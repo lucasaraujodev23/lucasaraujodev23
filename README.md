@@ -1,16 +1,25 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Araujo;Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 
-<!--
-**lucasaraujodev23/lucasaraujodev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Olá! Sou estudante de Ciência da Computação na FECAP, e estou em busca de desafios que possam aprimorar minhas soft skills e hard skills na área de TI! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas redes sociais e contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-araujo-pereira23/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasaraujodev23)[![Email](https://img.shields.io/badge/-email-e00c04?style=for-the-badge&logo=gmail&logoColor=white)](lucas.araujo.pereira23@gmail.com)
+
+## Habilidades e linguagens que estudo
+
+![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=orange) ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql) ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
+
+
+## GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lucasaraujodev23&show_icons=true&theme=tokyonight)  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasaraujodev23&layout=compact&theme=tokyonight)
+
+
+## Alguns projetos
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaraujodev23&repo=DS&bg_color=000&border_color=4169E1&show_icons=true&icon_color=fff&title_color=4169E1&text_color=FFF)](https://github.com/lucasaraujodev23/DS)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaraujodev23&repo=aula-ds-bd&bg_color=000&border_color=4169E1&show_icons=true&icon_color=fff&title_color=4169E1&text_color=FFF)](https://github.com/lucasaraujodev23/aula-ds-bd)
