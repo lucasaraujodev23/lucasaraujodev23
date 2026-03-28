@@ -12,11 +12,11 @@
 <br>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-araujo-pereira23/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasaraujodev23)
-  [![Email](https://img.shields.io/badge/-email-e00c04?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.araujo.pereira23@gmail.com)
-
+  <a href="https://www.linkedin.com/in/lucas-araujo-pereira23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/lucasaraujodev23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:lucas.araujo.pereira23@gmail.com"><img src="https://img.shields.io/badge/-email-e00c04?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <br>
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <br><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -45,6 +46,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=lucasaraujodev23&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasaraujodev23&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lucasaraujodev23&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasaraujodev23&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
