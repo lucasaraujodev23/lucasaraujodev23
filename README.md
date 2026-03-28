@@ -9,7 +9,7 @@
 
 ## Habilidades e linguagens que estudo
 
-![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=orange) ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql) ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ## GitHub Stats
