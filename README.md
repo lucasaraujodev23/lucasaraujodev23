@@ -5,6 +5,8 @@
 
   ### Sou estudante de Ciência da Computação na FECAP, e estou em busca de desafios que possam aprimorar minhas soft skills e hard skills na área de Full Stack Development!
 
+<br>
+
 </div>
 
 ## 📬 Contato e Redes Sociais
