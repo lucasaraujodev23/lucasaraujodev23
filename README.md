@@ -49,7 +49,7 @@
 
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lucasaraujodev23&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=araujolucas23&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasaraujodev23&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=araujolucas23&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
